@@ -35,6 +35,8 @@ star_wars_battlefront = Game.new("Star Wars Battlefront", garbage, ea, 1)
 civilization = Game.new("Civilization", strategy, firaxis, 10)
 halo2 = Game.new("Halo 2", shooter, bungie, 9)
 grand_theft_auto = Game.new("Grand Theft Auto", third_person, rockstar, 9)
+mass_effect_3 = Game.new("Mass Effect 3", third_person, bioware, 5)
+halo3 = Game.new("Halo 3", shooter, bungie, 4)
 
 
 binding.pry
